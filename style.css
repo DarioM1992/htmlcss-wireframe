@@ -1,0 +1,34 @@
+.top-page{
+    border-bottom: 2px solid black;
+}
+.box{
+    border: 3px solid black;
+    /* display: block; */
+    box-sizing: border-box;
+}
+
+main div {
+    max-width: 512px;
+    min-width: 400px;
+    /* margin-top: 1em;  */
+    margin: 1em 3em;
+    padding: 0 30px;
+}
+
+.box{
+    height: 150px;
+}
+
+h2 {
+    margin-bottom: auto;
+}
+
+#monitor {
+    width: 512px;
+}
+
+.last-box {
+   border-top: 2px solid black;
+   padding-left: 2em;
+   padding-top: 0.7em;
+}
