@@ -20,7 +20,7 @@ main div {
 }
 
 .box{
-    height: 150px;
+   min-height: 150px; 
 }
 
 h2 {
