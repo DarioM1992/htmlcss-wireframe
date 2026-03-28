@@ -29,7 +29,7 @@ h2 {
 }
 
 #monitor {
-    width: 512px;
+    /* width: 512px; */
     border: 2px dotted red;
     margin: 0;
 }
