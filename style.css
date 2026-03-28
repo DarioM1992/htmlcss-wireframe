@@ -8,7 +8,8 @@
 }
 
 h1 {
-   padding-left: 1em;
+   padding-left: 20px;
+   margin: 10px;
 }
 
 main div {
@@ -20,7 +21,7 @@ main div {
 }
 
 .box{
-   min-height: 150px; 
+   min-height: 160px; 
 }
 
 h2 {
@@ -29,6 +30,8 @@ h2 {
 
 #monitor {
     width: 512px;
+    border: 2px dotted red;
+    margin: 0;
 }
 
 .last-box {
