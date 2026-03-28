@@ -13,10 +13,10 @@ h1 {
 }
 
 main div {
-    max-width: 512px;
-    min-width: 400px;
+    /* max-width: 512px; */
     /* margin-top: 1em;  */
-    margin: 1em 3em;
+    /* margin: 1em 3em; */
+    margin: 15px 50px;
     padding: 0 30px;
 }
 
